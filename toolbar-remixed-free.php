@@ -197,6 +197,15 @@ echo <<<EOD
 	<div id="toolbar_remixed_change_result">
 		<span></span>
 	</div>
+	<div id="toolbar_remixed_upgrade">
+	 <h4>Get the <a href="http://siteguru.biz/downloads/toolbar-remixed/">Full Version of Toolbar Remixed</a> to get the following features:</h4>
+	 <ul>
+		<li>Custom Colors</li>
+		<li>Custom Menu Integration</li>
+		<li>Custom Icons for Menus and Menu Items Integrated via Toolbar Remixed</li>
+		<li>Hide plugin menus in the toolbar</li>
+	</ul>
+	</div>
 	<script type="text/javascript">		
 		jQuery(document).ready(function($) {
 			$("form#toolbar_remixed_options_form input#submit").click(function(){
