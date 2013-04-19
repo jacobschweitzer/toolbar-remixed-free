@@ -1,4 +1,4 @@
-=== Plugin Name ===
+=== Toolbar Remixed - Free ===
 Contributors: primetimejas
 Donate link: http://ijas.me/
 Tags: BuddyPress, toolbar, admin bar,
@@ -8,7 +8,7 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Toolbar Remixed.
+Toolbar Remixed - Free.
 
 == Description ==
 
